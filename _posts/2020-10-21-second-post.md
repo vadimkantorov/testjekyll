@@ -1,6 +1,3 @@
----
----
-
 This is a paragraph in my first post.
 Show off your Markdown!
 
